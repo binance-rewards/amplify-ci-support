@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@aws-sdk/client-kms": "^3.82.0",
+    "@aws-sdk/client-kms": "^3.787.0",
     "aws-sdk": "^2.1127.0",
     "axios": "^1.6.0",
     "rimraf": "^3.0.2",
