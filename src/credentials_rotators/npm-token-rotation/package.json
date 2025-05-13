@@ -34,7 +34,7 @@
     "axios": "^1.8.2",
     "esbuild": "^0.25.0",
     "source-map-support": "^0.5.19",
-    "totp-generator": "^0.0.9"
+    "totp-generator": "^0.0.14"
   },
   "resolutions": {
     "@aws-cdk/aws-eks": "^1.202.0"

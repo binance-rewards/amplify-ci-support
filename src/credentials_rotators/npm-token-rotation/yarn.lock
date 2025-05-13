@@ -3490,10 +3490,10 @@ to-regex-range@^5.0.1:
   dependencies:
     is-number "^7.0.0"
 
-totp-generator@^0.0.9:
-  version "0.0.9"
-  resolved "https://registry.yarnpkg.com/totp-generator/-/totp-generator-0.0.9.tgz#44318c67d0b163d3c4f2f6de6d8fa23bc77df3a9"
-  integrity sha512-ZrUn747mg6+FabOeUKP4neX2oUm69HjV1484kDYvtLfcGlO4XAq5xFwet/KJW7+zc2b09puTKCKMeTxzxfaKjw==
+totp-generator@^0.0.14:
+  version "0.0.14"
+  resolved "https://registry.yarnpkg.com/totp-generator/-/totp-generator-0.0.14.tgz#c136bcb4030f9cab5b10ecd82d15cd2d5518234a"
+  integrity sha512-vFZ8N2TdF4mCj8bUW460jI73LqS+JKccsZ8cttQSuXa3dkTmZo8q81Pq2yAuiPxCI5fPfUrfaKuU+7adjx5s4w==
   dependencies:
     jssha "^3.1.2"
 
