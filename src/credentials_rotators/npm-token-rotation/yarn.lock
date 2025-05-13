@@ -1535,10 +1535,10 @@
   resolved "https://registry.yarnpkg.com/@types/stack-utils/-/stack-utils-2.0.3.tgz#6209321eb2c1712a7e7466422b8cb1fc0d9dd5d8"
   integrity sha512-9aEbYZ3TbYMznPdcdr3SmIrLXwC/AKZXQeCf9Pgao5CKb8CyHuEX5jzWPTkvregvhRJHcpRO6BFoGW9ycaOkYw==
 
-"@types/totp-generator@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@types/totp-generator/-/totp-generator-0.0.1.tgz#0eae868b55d14090d64ddbd6cbaaa3062fae0e92"
-  integrity sha512-A79pg7RCZNcGJAGCtBsy/VDZFCMttZXzszTIB6cvBKXAgDq+v9vuAFz5CZkh9syUqtCmSIaMDb3+UX/uz/JM5w==
+"@types/totp-generator@^0.0.8":
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/@types/totp-generator/-/totp-generator-0.0.8.tgz#4c4fe034e88c4a8587c1bcdfc6d3cb17a4415325"
+  integrity sha512-NAiruWgCYxW1sd2LjpTT/sVarogTjjQoUyLiiL/e2DZOz9eovKxzEx5BiH8YgZoKUDZql1VXiIzgDBK7VzOmNw==
 
 "@types/yargs-parser@*":
   version "21.0.3"

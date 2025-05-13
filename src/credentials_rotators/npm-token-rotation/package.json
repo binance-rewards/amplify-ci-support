@@ -29,7 +29,7 @@
     "@aws-cdk/aws-stepfunctions": "^1.198.1",
     "@aws-cdk/aws-stepfunctions-tasks": "^1.198.1",
     "@aws-cdk/core": "^1.198.1",
-    "@types/totp-generator": "^0.0.1",
+    "@types/totp-generator": "^0.0.8",
     "ajv": "^8.6.1",
     "axios": "^1.8.2",
     "esbuild": "^0.25.0",
